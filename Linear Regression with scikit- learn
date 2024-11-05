@@ -71,7 +71,4 @@ The dataset is split into training and testing sets (80% training, 20% testing).
 
 The LinearRegression() model is trained using the training data.
 
-Predictions are made on the test data, and the model is evaluated using metrics like Mean Squared Error (MSE) and R-squared.
 
-
-This is a simple way to implement Linear Regression in Python for machine learning purposes.
